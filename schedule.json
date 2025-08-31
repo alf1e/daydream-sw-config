@@ -30,7 +30,7 @@
             {"event": "Project Work", "time": "13:00"},
             {"event": "Submit your projects!", "time": "16:00"},
             {"event": "Demos + Voting", "time": "16:30"},
-            {"event": "Closing Time", "time": "19:00"},
+            {"event": "Closing Time", "time": "19:00"}
         ]
     }
 ]
