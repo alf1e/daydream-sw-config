@@ -3,7 +3,17 @@
         "title": "Saturday, September 27th",
         "items": [
             {"event": "Doors Open", "time": "8:30"},
-            {"event": "SCHEDULE COMING SOON", "time": "XX:XX"},
+            {"event": "Opening Ceremony", "time": "9:30"},
+            {"event": "Team Up", "time": "10:00"},
+            {"event": "Jumpstart Workshop", "time": "10:15"},
+            {"event": "Lunch", "time": "12:15"},
+            {"event": "Portal & Project Work", "time": "13:00"},
+            {"event": "Video Game Art Workshop", "time": "14:00"},
+            {"event": "Project Work", "time": "15:00"},
+            {"event": "Cardiff Youth Service Presentation", "time": "16:00"},
+            {"event": "Lightning Talks + Project Work", "time": "16:30"},
+            {"event": "Submit your projects!", "time": "18:00"},
+            {"event": "Project Demos", "time": "18:15"},
             {"event": "End of Daydream!", "time": "19:30"}
         ]
     }
