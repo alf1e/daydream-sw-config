@@ -1,4 +1,5 @@
 [
+  { "image": "/uk/youthacks.svg", name: "Youthacks", url: "https://youthacks.org/" },
   { "image": "https://www.yubico.com/wp-content/themes/yubicool/img/logos/logo.svg", "name": "Yubico", "url": "https://www.yubico.com/" },
   { "image": "https://www.cardiffyouthservices.wales/wp-content/uploads/2024/09/logo.png", "name": "Cardiff Youth Service", "url": "https://www.cardiffyouthservices.wales/" }
 ]
